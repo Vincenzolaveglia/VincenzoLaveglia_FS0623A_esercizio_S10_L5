@@ -1,6 +1,4 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## `npm i bootstrap react-bootstrap`
 Per installare i componenti bootstrap usati nel progetto
